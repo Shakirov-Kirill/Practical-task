@@ -1,0 +1,10 @@
+.task buttom {
+    flex: 20%;
+    height: 100%;
+    border: none;
+    background-color: lightseagreen;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    color: #fff;
+    cursor: pointer;
+}
